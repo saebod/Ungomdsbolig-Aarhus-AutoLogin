@@ -1,6 +1,6 @@
 # Ungomdsbolig-Aarhus-AutoLogin
 
-Ungomdsbolig-Aarhus-AutoLogin er et simple script der automatisk logger ind på UngdomsboligAarhus.dk
+Ungomdsbolig-Aarhus-AutoLogin er et simple script der automatisk logger ind på UngdomsboligAarhus.dk. Ungdomsbolig Aarhus kræver at man logger ind mindst en gang om måned for at bygge anncinitet. Dette script er lavet til at man kan automatisk logge ind
 
 
 ## Usage
