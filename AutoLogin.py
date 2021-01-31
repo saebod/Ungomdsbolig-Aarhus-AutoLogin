@@ -1,5 +1,7 @@
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
+import time 
+
 username = "Mitbrugernavn123"
 password = "Minmkode123"
 driver = webdriver.Chrome(ChromeDriverManager().install())
@@ -12,3 +14,5 @@ password_textbox.send_keys(password)
 
 login_button = driver.find_element_by_id("edit-submit")
 login_button.submit()
+time.sleet(5)
+driver.quit()
