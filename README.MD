@@ -7,8 +7,6 @@ Ungomdsbolig-Aarhus-AutoLogin er et simple script der automatisk logger ind på U
 Åben AutoLogin.py og ændre nedestående oplysnigner til dit login. Bemærk at din kode er gemt i scriptet så der er ingen grund til at bruge en kode ud bruger alle steder.
 
 ```python
-import foobar
-
 username = "Mitbrugernavn123"
 password = "Minmkode123"
 ```
