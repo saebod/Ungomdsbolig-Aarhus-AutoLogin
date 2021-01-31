@@ -1,14 +1,14 @@
 # Ungomdsbolig-Aarhus-AutoLogin
 
-Ungomdsbolig-Aarhus-AutoLogin er et simple script der automatisk logger ind på UngdomsboligAarhus.dk
+Ungomdsbolig-Aarhus-AutoLogin er et simple script der automatisk logger ind pÃ¥ UngdomsboligAarhus.dk
 
 
 ## Usage
-Åben AutoLogin.py og ændre nedestående oplysnigner til dit login. Bemærk at din kode er gemt i scriptet så der er ingen grund til at bruge en kode ud bruger alle steder.
+Ã…ben AutoLogin.py og Ã¦ndre nedestÃ¥ende oplysnigner til dit login. BemÃ¦rk at din kode er gemt i scriptet sÃ¥ der er ingen grund til at bruge en kode du bruger alle steder.
 
 ```python
 username = "Mitbrugernavn123"
 password = "Minmkode123"
 ```
 ## Anbefaliner
-Sæt en task manager op til at køre scriptet en gang om måneden
+SÃ¦t en task manager op til at kÃ¸re scriptet en gang om mÃ¥neden
