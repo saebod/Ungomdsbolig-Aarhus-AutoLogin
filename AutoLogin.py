@@ -14,5 +14,5 @@ password_textbox.send_keys(password)
 
 login_button = driver.find_element_by_id("edit-submit")
 login_button.submit()
-time.sleet(5)
+time.sleep(5)
 driver.quit()
